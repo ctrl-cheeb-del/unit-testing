@@ -15,3 +15,5 @@ test("Area Triangle", () => {
 test("Area Circle", () => {
   expect(calcAreaCircle(4)).toBe(50.26548245743669);
 });
+
+//SILLY GUTHUB
